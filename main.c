@@ -10,7 +10,7 @@ int main(int argc, char** argv) {
 
     for(i=0;i<N;i++){
     cont=i+1;
-    printf("Inserisci l'eta' della %da persona: \n",cont);
+    printf("Inserisci l'età della %da persona: \n",cont);
     scanf("%d",&(array[i]));
     }
     maggiori=0;
